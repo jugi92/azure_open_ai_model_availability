@@ -1,0 +1,48 @@
+datazone-provisioned-managed.md
+update
+2 weeks ago
+datazone-standard.md
+update
+2 weeks ago
+global-batch-datazone.md
+update
+2 months ago
+global-batch.md
+update
+2 months ago
+provisioned-global.md
+update
+2 weeks ago
+provisioned-models.md
+update'
+5 days ago
+quota.md
+update
+6 months ago
+standard-audio.md
+update
+3 months ago
+standard-chat-completions.md
+update
+last week
+standard-completions.md
+update
+2 months ago
+standard-embeddings.md
+update
+2 weeks ago
+standard-global.md
+update global standard deployment model table
+4 hours ago
+standard-gpt-35-turbo.md
+update
+7 months ago
+standard-gpt-4.md
+update
+6 months ago
+standard-image-generation.md
+update
+2 months ago
+standard-models.md
+update
+last week
